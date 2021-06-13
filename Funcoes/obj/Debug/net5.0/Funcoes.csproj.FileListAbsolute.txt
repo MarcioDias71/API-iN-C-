@@ -1,0 +1,17 @@
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/Funcoes.deps.json
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/Funcoes.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/ref/Funcoes.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/Funcoes.pdb
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/BD.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/Produto.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/Produto.pdb
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/bin/Debug/net5.0/BD.pdb
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.csproj.AssemblyReference.cache
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.AssemblyInfoInputs.cache
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.AssemblyInfo.cs
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.csproj.CoreCompileInputs.cache
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.csproj.CopyComplete
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/ref/Funcoes.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/Funcoes/obj/Debug/net5.0/Funcoes.pdb

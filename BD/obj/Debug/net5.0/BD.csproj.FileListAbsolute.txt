@@ -1,0 +1,12 @@
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.csproj.AssemblyReference.cache
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.AssemblyInfoInputs.cache
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.AssemblyInfo.cs
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.csproj.CoreCompileInputs.cache
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/bin/Debug/net5.0/BD.deps.json
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/bin/Debug/net5.0/BD.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/bin/Debug/net5.0/ref/BD.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/bin/Debug/net5.0/BD.pdb
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/ref/BD.dll
+/home/marcio/Documentos/Treino em C#/APIPRODUTO/BD/obj/Debug/net5.0/BD.pdb
